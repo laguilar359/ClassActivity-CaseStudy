@@ -1,7 +1,7 @@
 # JPM Coin Case Study
 Case Study
 Case Study Proposal
-![JPM Coin](https://www.google.com/search?q=jpm+coin&rlz=1C5CHFA_enUS749US750&sxsrf=ALeKk03X7jB4x8Eis-3fbBba58R5maQCQg:1595704867307&source=lnms&tbm=isch&sa=X&ved=2ahUKEwibuKDuj-nqAhUBXqwKHWuqD8EQ_AUoAnoECA4QBA&biw=1440&bih=701#imgrc=gLhWOMz2r8S0sM)
+![JPM Coin](https://github.com/laguilar359/ClassActivity-CaseStudy/blob/master/jpm-coin-cryptocurrency.jpeg)
 JP Morgan Coin
 What Is It
 JPM Coin is a digital coin that JP Morgan Chase announced in February to allow institutional customers
